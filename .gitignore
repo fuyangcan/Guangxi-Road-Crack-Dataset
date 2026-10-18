@@ -1,0 +1,13 @@
+# Local editing / temporary files
+.DS_Store
+Thumbs.db
+~$*.docx
+*.tmp
+*.bak
+__pycache__/
+# Do not accidentally commit completed applications or dataset contents
+applications/
+data/
+dataset/
+raw_images/
+annotations/
