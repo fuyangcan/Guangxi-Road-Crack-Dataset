@@ -12,7 +12,7 @@ Because the source images may contain information about surrounding infrastructu
 
 ## Availability of Data and Text Prompts
 
-Road crack images, pixel-level annotations, and corresponding text prompts are not currently available for direct public download. Access to all three components is subject to application and review. Researchers may email huweijie_fl@163.com directly, describing their research purpose, intended use, and scope, or email a completed application form available below. Approved applicants may receive appropriately privacy-processed data and corresponding text prompts within the approved scope.
+Road crack images, pixel-level annotations, and corresponding text prompts are not currently available for direct public download. Access to all three components is subject to application and review. Researchers may email huweijie_lf@163.com directly, describing their research purpose, intended use, and scope, or email a completed application form available below. Approved applicants may receive appropriately privacy-processed data and corresponding text prompts within the approved scope.
 
 ## Application Forms
 
@@ -30,7 +30,7 @@ Both forms collect applicant information, intended research use, requested data 
 3. Email the completed form to the dataset contact below, using a subject such as “Guangxi Road Crack Dataset Access Request – Name – Institution”.
 4. The data provider will consider the request in light of the stated research purpose and applicable use conditions. Any approved data delivery arrangements will be communicated separately.
 
-**Application email: `huweijie_fl@163.com`**
+**Application email: `huweijie_lf@163.com`**
 
 To protect personal information, applicants should **not** post completed forms in public GitHub issues.
 
@@ -42,4 +42,4 @@ No public license for the underlying images, annotations, or prompts is granted 
 
 ## Contact
 
-Dataset access requests: `huweijie_fl@163.com`
+Dataset access requests: `huweijie_lf@163.com`
